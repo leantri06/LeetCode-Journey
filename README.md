@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/leantri06/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/leantri06/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/leantri06/LeetCode-Journey/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/leantri06/LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/leantri06/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/leantri06/LeetCode-Journey/tree/master/1929-concatenation-of-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/leantri06/LeetCode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -45,4 +46,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/leantri06/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/leantri06/LeetCode-Journey/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/leantri06/LeetCode-Journey/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
