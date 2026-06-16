@@ -2,17 +2,13 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
         unordered_map<char, int> hash;
-        for (char x : s) {
-            hash[x]++;
+        if (s.size() != t.size()) return false;
+        for (int i = 0; i < s.size(); i++) {
+            hash[s[i]]++;
+            hash[t[i]]--;
         }
-        for (char x : t) {
-            hash[x]--;
-        }
-        for (char x: s) {
-            if (hash[x] != 0) return false;
-        }
-        for (char x: t) {
-            if (hash[x] != 0) return false;
+        for (int i = 0; i < s.size(); i++) {
+            if (hash[s[i]] != 0) return false;
         }
         return true;
     }
