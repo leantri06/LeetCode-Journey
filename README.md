@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/leantri06/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/leantri06/LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/leantri06/LeetCode-Journey/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/leantri06/LeetCode-Journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/leantri06/LeetCode-Journey/tree/master/0242-valid-anagram) |
 ## Graph Theory
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/leantri06/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/leantri06/LeetCode-Journey/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
