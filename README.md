@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/leantri06/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/leantri06/LeetCode-Journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/leantri06/LeetCode-Journey/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/leantri06/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/leantri06/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/leantri06/LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/leantri06/LeetCode-Journey/tree/master/0136-single-number) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/leantri06/LeetCode-Journey/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/leantri06/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/leantri06/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/leantri06/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/leantri06/LeetCode-Journey/tree/master/0242-valid-anagram) |
@@ -32,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/leantri06/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/leantri06/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/leantri06/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/leantri06/LeetCode-Journey/tree/master/0242-valid-anagram) |
@@ -48,6 +51,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/leantri06/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/leantri06/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/leantri06/LeetCode-Journey/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
