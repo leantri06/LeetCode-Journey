@@ -9,9 +9,7 @@ public:
                 digits[i] = 0;
             }
         }
-        reverse(digits.begin(), digits.end());
-        digits.push_back(1);
-        reverse(digits.begin(), digits.end());
+        digits.insert(digits.begin(), 1);
         return digits;
     }
 };
