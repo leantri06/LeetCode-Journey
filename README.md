@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/leantri06/LeetCode-Journey/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/leantri06/LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/leantri06/LeetCode-Journey/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/leantri06/LeetCode-Journey/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/leantri06/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/leantri06/LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/leantri06/LeetCode-Journey/tree/master/0136-single-number) |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/leantri06/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/leantri06/LeetCode-Journey/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
