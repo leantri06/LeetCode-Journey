@@ -1,9 +1,3 @@
-static const auto _____ = []()
-        {
-            ios::sync_with_stdio(false);
-            cin.tie(nullptr);
-            return nullptr;
-        }();
 class Solution {
 public:
     int findLHS(vector<int>& nums) {
