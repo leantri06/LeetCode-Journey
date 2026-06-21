@@ -1,12 +1,12 @@
-class Solution {
-public:
-    int findLHS(vector<int>& nums) {
-        static const auto _____ = []()
+static const auto _____ = []()
         {
             ios::sync_with_stdio(false);
             cin.tie(nullptr);
             return nullptr;
         }();
+class Solution {
+public:
+    int findLHS(vector<int>& nums) {
         sort(nums.begin(), nums.end());
         int l = 0;
         int max_length = 0;
