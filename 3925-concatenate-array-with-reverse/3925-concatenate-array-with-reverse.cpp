@@ -1,9 +1,11 @@
 class Solution {
 public:
     vector<int> concatWithReverse(vector<int>& nums) {
-        for (int i = nums.size() - 1; i >= 0; i--) {
-            nums.push_back(nums[i]);
+        vector<int> ans(2*nums.size());
+        for (int i = 0; i < nums.size(); i++) {
+            ans[i] = nums[i];
+            ans[i+nums.size()] = nums[nums.size()-i-1];
         }
-        return nums;
+        return ans;
     }
 };
