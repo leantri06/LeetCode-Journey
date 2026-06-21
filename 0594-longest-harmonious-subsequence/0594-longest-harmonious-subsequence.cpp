@@ -5,11 +5,11 @@ public:
         int l = 0;
         int max_length = 0;
         for (int r = 0; r < nums.size(); r++) {
-            if (nums[r] - nums[l] == 1) {
-                max_length = max(max_length, r-l+1);
-            } 
             while (nums[r] - nums[l] > 1) {
                 l++;
+            }
+            if (nums[r] - nums[l] == 1) {
+                max_length = max(max_length, r-l+1);
             }
         }
         return max_length;
