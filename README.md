@@ -25,6 +25,7 @@
 | [1732-find-the-highest-altitude](https://github.com/leantri06/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/leantri06/LeetCode-Journey/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/leantri06/LeetCode-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/leantri06/LeetCode-Journey/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/leantri06/LeetCode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/leantri06/LeetCode-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -39,6 +40,7 @@
 | [0347-top-k-frequent-elements](https://github.com/leantri06/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/leantri06/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
+| [3668-restore-finishing-order](https://github.com/leantri06/LeetCode-Journey/tree/master/3668-restore-finishing-order) |
 ## Simulation
 |  |
 | ------- |
