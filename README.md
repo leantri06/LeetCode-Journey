@@ -22,6 +22,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/leantri06/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/leantri06/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/leantri06/LeetCode-Journey/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/leantri06/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/leantri06/LeetCode-Journey/tree/master/1929-concatenation-of-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/leantri06/LeetCode-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -133,4 +134,5 @@
 | [0219-contains-duplicate-ii](https://github.com/leantri06/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/leantri06/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
+| [1652-defuse-the-bomb](https://github.com/leantri06/LeetCode-Journey/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
