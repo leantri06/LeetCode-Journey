@@ -2,18 +2,20 @@ class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
         for (int i = 0; i < 9; i++) {
-            unordered_map<char, int> hash;
+            array<bool, 10> hash = {false};
             for (int j = 0; j < 9; j++) {
-                if (board[i][j] != '.' && hash[board[i][j]] > 0) return false;
-                hash[board[i][j]]++;
+                if (board[i][j] == '.') continue;
+                if (hash[board[i][j] - '0'] == true) return false;
+                hash[board[i][j] - '0'] = true;
             }
         }
 
         for (int i = 0; i < 9; i++) {
-            unordered_map<char, int> hash;
+            array<bool, 10> hash = {false};
             for (int j = 0; j < 9; j++) {
-                if (board[j][i] != '.' && hash[board[j][i]] > 0) return false;
-                hash[board[j][i]]++;
+                if (board[j][i] == '.') continue;
+                if (hash[board[j][i] - '0'] == true) return false;
+                hash[board[j][i] - '0'] = true;
             }
         }
 
