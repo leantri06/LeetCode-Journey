@@ -26,6 +26,7 @@
 | [1652-defuse-the-bomb](https://github.com/leantri06/LeetCode-Journey/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/leantri06/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/leantri06/LeetCode-Journey/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/leantri06/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/leantri06/LeetCode-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/leantri06/LeetCode-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/leantri06/LeetCode-Journey/tree/master/3668-restore-finishing-order) |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/leantri06/LeetCode-Journey/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/leantri06/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3925-concatenate-array-with-reverse](https://github.com/leantri06/LeetCode-Journey/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
@@ -85,6 +87,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/leantri06/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/leantri06/LeetCode-Journey/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/leantri06/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/leantri06/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
