@@ -13,8 +13,6 @@ public:
                     i++;
                 }
                 res = max(res, i);
-            } else {
-                continue;
             }
         }
         return res;
