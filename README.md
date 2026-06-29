@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/leantri06/LeetCode-Journey/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/leantri06/LeetCode-Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/leantri06/LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/leantri06/LeetCode-Journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/leantri06/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/leantri06/LeetCode-Journey/tree/master/0217-contains-duplicate) |
@@ -40,6 +41,7 @@
 | [0001-two-sum](https://github.com/leantri06/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/leantri06/LeetCode-Journey/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/leantri06/LeetCode-Journey/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/leantri06/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/leantri06/LeetCode-Journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/leantri06/LeetCode-Journey/tree/master/0219-contains-duplicate-ii) |
@@ -148,4 +150,8 @@
 | [0594-longest-harmonious-subsequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/leantri06/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/leantri06/LeetCode-Journey/tree/master/1652-defuse-the-bomb) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
