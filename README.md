@@ -140,6 +140,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/leantri06/LeetCode-Journey/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/leantri06/LeetCode-Journey/tree/master/0066-plus-one) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/leantri06/LeetCode-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/leantri06/LeetCode-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
