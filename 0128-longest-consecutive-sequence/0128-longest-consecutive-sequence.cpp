@@ -1,10 +1,7 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        unordered_set<int> hash;
-        for (int i = 0; i < nums.size(); i++) {
-            hash.insert(nums[i]);
-        }
+        unordered_set<int> hash(nums.begin(), nums.end());
         int res = 0;
         for (int x : hash) {
             if (hash.count(x-1) == 0) {
