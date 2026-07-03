@@ -26,6 +26,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/leantri06/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1512-number-of-good-pairs](https://github.com/leantri06/LeetCode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/leantri06/LeetCode-Journey/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/leantri06/LeetCode-Journey/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/leantri06/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/leantri06/LeetCode-Journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/leantri06/LeetCode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/leantri06/LeetCode-Journey/tree/master/0036-valid-sudoku) |
+| [1672-richest-customer-wealth](https://github.com/leantri06/LeetCode-Journey/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/leantri06/LeetCode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
 |  |
