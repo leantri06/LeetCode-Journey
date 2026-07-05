@@ -35,6 +35,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/leantri06/LeetCode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/leantri06/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/leantri06/LeetCode-Journey/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/leantri06/LeetCode-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/leantri06/LeetCode-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -83,6 +84,7 @@
 | [0347-top-k-frequent-elements](https://github.com/leantri06/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/leantri06/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/leantri06/LeetCode-Journey/tree/master/3467-transform-array-by-parity) |
 ## Graph Theory
 |  |
@@ -115,11 +117,13 @@
 | [0027-remove-element](https://github.com/leantri06/LeetCode-Journey/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/leantri06/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/leantri06/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/leantri06/LeetCode-Journey/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/leantri06/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
