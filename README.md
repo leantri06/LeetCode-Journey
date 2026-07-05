@@ -28,6 +28,7 @@
 | [1512-number-of-good-pairs](https://github.com/leantri06/LeetCode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/leantri06/LeetCode-Journey/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/leantri06/LeetCode-Journey/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/leantri06/LeetCode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1732-find-the-highest-altitude](https://github.com/leantri06/LeetCode-Journey/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/leantri06/LeetCode-Journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/leantri06/LeetCode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -58,6 +59,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/leantri06/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/leantri06/LeetCode-Journey/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/leantri06/LeetCode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/leantri06/LeetCode-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/leantri06/LeetCode-Journey/tree/master/3668-restore-finishing-order) |
 ## Simulation
@@ -96,6 +98,7 @@
 | [0014-longest-common-prefix](https://github.com/leantri06/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/leantri06/LeetCode-Journey/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/leantri06/LeetCode-Journey/tree/master/0242-valid-anagram) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/leantri06/LeetCode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/leantri06/LeetCode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/leantri06/LeetCode-Journey/tree/master/2942-find-words-containing-character) |
 | [3838-weighted-word-mapping](https://github.com/leantri06/LeetCode-Journey/tree/master/3838-weighted-word-mapping) |
@@ -127,11 +130,13 @@
 | [0347-top-k-frequent-elements](https://github.com/leantri06/LeetCode-Journey/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/leantri06/LeetCode-Journey/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/leantri06/LeetCode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3467-transform-array-by-parity](https://github.com/leantri06/LeetCode-Journey/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/leantri06/LeetCode-Journey/tree/master/0136-single-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/leantri06/LeetCode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
