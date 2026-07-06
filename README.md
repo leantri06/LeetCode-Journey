@@ -101,6 +101,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/leantri06/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/leantri06/LeetCode-Journey/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/leantri06/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/leantri06/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/leantri06/LeetCode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/leantri06/LeetCode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/leantri06/LeetCode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/leantri06/LeetCode-Journey/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/leantri06/LeetCode-Journey/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/leantri06/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/leantri06/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
