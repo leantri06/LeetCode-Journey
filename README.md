@@ -108,6 +108,7 @@
 | [0242-valid-anagram](https://github.com/leantri06/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/leantri06/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/leantri06/LeetCode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2000-reverse-prefix-of-word](https://github.com/leantri06/LeetCode-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/leantri06/LeetCode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/leantri06/LeetCode-Journey/tree/master/2942-find-words-containing-character) |
 | [3794-reverse-string-prefix](https://github.com/leantri06/LeetCode-Journey/tree/master/3794-reverse-string-prefix) |
@@ -126,6 +127,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/leantri06/LeetCode-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/leantri06/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/leantri06/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [2000-reverse-prefix-of-word](https://github.com/leantri06/LeetCode-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/leantri06/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/leantri06/LeetCode-Journey/tree/master/3794-reverse-string-prefix) |
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/leantri06/LeetCode-Journey/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
