@@ -41,6 +41,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/leantri06/LeetCode-Journey/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/leantri06/LeetCode-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/leantri06/LeetCode-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/leantri06/LeetCode-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/leantri06/LeetCode-Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/leantri06/LeetCode-Journey/tree/master/3467-transform-array-by-parity) |
@@ -90,6 +91,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/leantri06/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/leantri06/LeetCode-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/leantri06/LeetCode-Journey/tree/master/3467-transform-array-by-parity) |
 ## Graph Theory
 |  |
@@ -134,6 +136,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/leantri06/LeetCode-Journey/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/leantri06/LeetCode-Journey/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/leantri06/LeetCode-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3794-reverse-string-prefix](https://github.com/leantri06/LeetCode-Journey/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
