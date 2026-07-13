@@ -36,6 +36,7 @@
 | [1929-concatenation-of-array](https://github.com/leantri06/LeetCode-Journey/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/leantri06/LeetCode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/leantri06/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/leantri06/LeetCode-Journey/tree/master/2367-number-of-arithmetic-triplets) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/leantri06/LeetCode-Journey/tree/master/2942-find-words-containing-character) |
@@ -65,6 +66,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/leantri06/LeetCode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/leantri06/LeetCode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2367-number-of-arithmetic-triplets](https://github.com/leantri06/LeetCode-Journey/tree/master/2367-number-of-arithmetic-triplets) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/leantri06/LeetCode-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/leantri06/LeetCode-Journey/tree/master/3668-restore-finishing-order) |
 ## Simulation
@@ -129,6 +131,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/leantri06/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/leantri06/LeetCode-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/leantri06/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2367-number-of-arithmetic-triplets](https://github.com/leantri06/LeetCode-Journey/tree/master/2367-number-of-arithmetic-triplets) |
 | [2396-strictly-palindromic-number](https://github.com/leantri06/LeetCode-Journey/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/leantri06/LeetCode-Journey/tree/master/3794-reverse-string-prefix) |
@@ -210,4 +213,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/leantri06/LeetCode-Journey/tree/master/2396-strictly-palindromic-number) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/leantri06/LeetCode-Journey/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
