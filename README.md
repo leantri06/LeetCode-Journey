@@ -129,6 +129,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/leantri06/LeetCode-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/leantri06/LeetCode-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/leantri06/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/leantri06/LeetCode-Journey/tree/master/2396-strictly-palindromic-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/leantri06/LeetCode-Journey/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
@@ -185,6 +186,7 @@
 | [0009-palindrome-number](https://github.com/leantri06/LeetCode-Journey/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/leantri06/LeetCode-Journey/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/leantri06/LeetCode-Journey/tree/master/1512-number-of-good-pairs) |
+| [2396-strictly-palindromic-number](https://github.com/leantri06/LeetCode-Journey/tree/master/2396-strictly-palindromic-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/leantri06/LeetCode-Journey/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/leantri06/LeetCode-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/leantri06/LeetCode-Journey/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -204,4 +206,8 @@
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/leantri06/LeetCode-Journey/tree/master/2000-reverse-prefix-of-word) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/leantri06/LeetCode-Journey/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
