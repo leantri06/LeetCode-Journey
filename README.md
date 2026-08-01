@@ -123,6 +123,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/leantri06/LeetCode-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/leantri06/LeetCode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/leantri06/LeetCode-Journey/tree/master/2942-find-words-containing-character) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/leantri06/LeetCode-Journey/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3794-reverse-string-prefix](https://github.com/leantri06/LeetCode-Journey/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/leantri06/LeetCode-Journey/tree/master/3838-weighted-word-mapping) |
 ## Trie
@@ -219,6 +220,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/leantri06/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/leantri06/LeetCode-Journey/tree/master/1652-defuse-the-bomb) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/leantri06/LeetCode-Journey/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Union-Find
 |  |
 | ------- |
