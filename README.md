@@ -52,6 +52,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/leantri06/LeetCode-Journey/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/leantri06/LeetCode-Journey/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/leantri06/LeetCode-Journey/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/leantri06/LeetCode-Journey/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/leantri06/LeetCode-Journey/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/leantri06/LeetCode-Journey/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/leantri06/LeetCode-Journey/tree/master/3925-concatenate-array-with-reverse) |
@@ -75,6 +76,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/leantri06/LeetCode-Journey/tree/master/2367-number-of-arithmetic-triplets) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/leantri06/LeetCode-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/leantri06/LeetCode-Journey/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/leantri06/LeetCode-Journey/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/leantri06/LeetCode-Journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/leantri06/LeetCode-Journey/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/leantri06/LeetCode-Journey/tree/master/3731-find-missing-elements) |
 ## Graph Theory
 |  |
 | ------- |
