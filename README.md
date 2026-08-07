@@ -73,6 +73,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/leantri06/LeetCode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/leantri06/LeetCode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/leantri06/LeetCode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2367-number-of-arithmetic-triplets](https://github.com/leantri06/LeetCode-Journey/tree/master/2367-number-of-arithmetic-triplets) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/leantri06/LeetCode-Journey/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/leantri06/LeetCode-Journey/tree/master/3668-restore-finishing-order) |
@@ -123,6 +124,7 @@
 | [0242-valid-anagram](https://github.com/leantri06/LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/leantri06/LeetCode-Journey/tree/master/0344-reverse-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/leantri06/LeetCode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/leantri06/LeetCode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/leantri06/LeetCode-Journey/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/leantri06/LeetCode-Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/leantri06/LeetCode-Journey/tree/master/2942-find-words-containing-character) |
@@ -174,6 +176,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/leantri06/LeetCode-Journey/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/leantri06/LeetCode-Journey/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/leantri06/LeetCode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3467-transform-array-by-parity](https://github.com/leantri06/LeetCode-Journey/tree/master/3467-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
@@ -223,6 +226,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/leantri06/LeetCode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/leantri06/LeetCode-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/leantri06/LeetCode-Journey/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/leantri06/LeetCode-Journey/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/leantri06/LeetCode-Journey/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Union-Find
 |  |
