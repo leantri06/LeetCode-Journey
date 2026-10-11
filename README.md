@@ -41,6 +41,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/leantri06/LeetCode-Journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/leantri06/LeetCode-Journey/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/leantri06/LeetCode-Journey/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/leantri06/LeetCode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/leantri06/LeetCode-Journey/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/leantri06/LeetCode-Journey/tree/master/2942-find-words-containing-character) |
@@ -244,6 +245,7 @@
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/leantri06/LeetCode-Journey/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/leantri06/LeetCode-Journey/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Greedy
 |  |
 | ------- |
